@@ -16,3 +16,6 @@ composer.lock
 .svn
 .vscode
 node_modules
+
+/application/config.php
+/application/database.php
