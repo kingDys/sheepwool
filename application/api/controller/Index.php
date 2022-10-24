@@ -23,6 +23,6 @@ class Index extends Api
 
 
     public function king(){
-        $this->success('123');
+        $this->success('321');
     }
 }
