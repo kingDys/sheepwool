@@ -20,4 +20,9 @@ class Index extends Api
     {
         $this->success('请求成功');
     }
+
+
+    public function king(){
+        $this->success('123');
+    }
 }
